@@ -1,0 +1,23 @@
+html
+{
+    font-family: Arial, Helvetica, sans-serif;
+}
+section
+{
+    border: solid gray 1px;
+    padding: 5px 25px;
+}
+h1
+{
+    text-align: center;
+    color: #bf823b;
+}
+h2
+{
+    border-bottom: solid gray 1px;
+    color: #70af0a;
+}
+h3
+{
+    color: #bf813bc9;
+}
